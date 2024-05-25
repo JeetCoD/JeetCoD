@@ -25,7 +25,7 @@ I'm a passionate Full Stack Developer and UI/UX Designer, currently pursuing a d
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working on SaSS Web Application  
   
@@ -39,14 +39,7 @@ I'm a passionate Full Stack Developer and UI/UX Designer, currently pursuing a d
 - ⚡ Fun fact: I love exploring the intersection of technology and design, and in my free time, you can find me sketching new app ideas or hiking in the great outdoors.  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
